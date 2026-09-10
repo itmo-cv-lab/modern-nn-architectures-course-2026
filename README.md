@@ -34,9 +34,6 @@ This lecture explores essential model compression and optimization techniques fo
 - **📁 Google Drive:** [For Homework](https://drive.google.com/drive/folders/11te9R9Wwx58D4VAjEQ5IdL0lmaTxpuX2?usp=sharing)
 - **📊 Assignment Tracker:** [Homework Progress Table](https://docs.google.com/spreadsheets/d/1pc_zJbCpdEBaWPRkKPSP1UM-KCUeqMoUo9EPHxbbfE8/edit?usp=sharing)
 
-## 📝 Exam Questions
-- **Exam Questions:** [Google Drive Document](https://docs.google.com/document/d/1dplSEI0buxK7vDD1hLSEURBMh7kS2FLxuRRLR28Ev4I/edit?usp=sharing)
-
 ---
 
 *Navigate through the lectures using the links above to access course materials, practice notebooks, and homework assignments.*
