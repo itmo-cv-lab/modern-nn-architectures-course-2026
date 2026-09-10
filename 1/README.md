@@ -2,9 +2,6 @@
 
 This lecture explores the evolution of convolutional neural networks from the pioneering LeNet (1990) to the state-of-the-art EfficientNet (2019). We'll dive deep into the architectural innovations, design principles, and breakthroughs that shaped modern CNN development over three decades.
 
-## 📹 Video Content
-- **Lecture & Practice:** [Watch on Yandex Disk](https://disk.yandex.ru/d/lWjrCgtjuBof3A)
-
 ## 📚 Course Materials
 
 ### 📖 Lecture Slides
