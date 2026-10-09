@@ -9,13 +9,8 @@ This lecture explores the evolution of convolutional neural networks from the pi
 - **PowerPoint Version:** [`1_cnn.pptx`](./1_cnn.pptx)
 
 ### 💻 Practice Notebook
-- **Jupyter Notebook:** [`1_cnn_cls.ipynb`](./1_cnn_cls.ipynb)
 
 ## 📝 Homework Assignment
 - **Assignment Details:** [Google Drive Document](https://docs.google.com/document/d/1zlNSMuPyjALbcEUn2nHTyFCdp_ZeDHnDoLGFKSQDL98/edit?usp=sharing)
-
----
-
-*This lecture covers the fundamental concepts and historical development of CNNs, providing essential knowledge for understanding modern deep learning architectures.*
 
 
